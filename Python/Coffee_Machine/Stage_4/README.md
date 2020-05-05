@@ -21,12 +21,12 @@ At the moment, the coffee machine has $550, 400 ml of water, 540 ml of milk, 120
 To sum up, your program should print the coffee machine's state, process one query from the user, as well as print the coffee machine's state after that. Try to use functions for implementing every action that the coffee machine can do.
 
 #### Examples
-```
+
 An espresso should be as number 1 in the list, a latte as number 2 and a cappuccino as number 3.
 Options are named as "buy", "fill", "take".
 
-The greater-than symbol followed by space (> ) represents the user input. Notice that it's not the part of the input.
-```
+The greater-than symbol followed by space (```> ```) represents the user input. Notice that it's not the part of the input.
+
 #### Example 1:
 ```
 The coffee machine has:
@@ -76,7 +76,7 @@ The coffee machine has:
 550 of money
 ```
 #### Example 3:
-
+```
 The coffee machine has:
 400 of water
 540 of milk
