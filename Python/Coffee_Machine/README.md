@@ -10,7 +10,7 @@ Write a program that puts basic information on the screen: give the machine a ch
 Program the machine to calculate the amount of ingredients it needs depending on how many people want some coffee. 
 ### [Stage 3/6: Enough coffee for everyone][3]
 Working with conditions, program the machine to estimate how many creamy coffees it can make based on the amount of ingredients we enter. 
-### [Stage 4/6: Action][4]
+### [Stage 4/6: Action!][4]
 Upgrade your knowledge of functions – set the machine to perform three basic actions: collect the money, renew the supplies, and serve the coffee. 
 ### [Stage 5/6: On a coffee loop][5]
 Program the machine to display on the screen the amount of supplies left. Set the main loop: now the menu keeps updating until you enter “exit”. 
