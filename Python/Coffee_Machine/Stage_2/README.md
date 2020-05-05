@@ -1,4 +1,4 @@
-# Enough coffee for everyone
+# Machines have needs
 ## Description
 
 Now let's consider a case when you need a lot of coffee. Maybe you're hosting a party with a lot of guests! In these circumstances, it's better to make preparations in advance.
