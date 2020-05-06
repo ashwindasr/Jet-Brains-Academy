@@ -1,6 +1,18 @@
-## Notes
+# Python
 
-### Formatted string literals
+
+## Contents
+ - [Projects](#projects)
+ - [Notes](#notes)
+
+### Projects
+#### 1. [Coffee Machine](https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Coffee_Machine)
+ This project allows you to get a taste of Python. Practice working with functions, challenge yourself with loops and conditions, and get more confident in Python.
+
+
+### Notes
+
+#### Formatted string literals
 Formatted string literals (or, simply, f-strings) are used to embed the values of expressions inside string literals. This way is supposed to be the easiest one: you only need to put f before the string and put the variables you want to embed into the string in curly braces. They are also the newest feature among all string formatting methods in Python.
 ```python
 name = 'Elizabeth II'
