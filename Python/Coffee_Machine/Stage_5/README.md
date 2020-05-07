@@ -14,8 +14,6 @@ And the last improvement to the program at this step — if the user types "buy"
 Your coffee machine should have the the same initial resources as in the example (400 ml of water, 540 ml of milk, 120 g of coffee beans, 9 disposable cups, $550 in cash.
 
 The greater-than symbol followed by space (```> ```) represents the user input. Notice that it's not the part of the input.
-
-#### Example 1:
 ```
 Write action (buy, fill, take, remaining, exit):
 > remaining
