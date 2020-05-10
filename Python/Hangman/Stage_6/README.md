@@ -7,9 +7,9 @@ Now a player will have a lot of attempts and is limited only by the number of mi
 ## Objective
 The player starts the game with 8 "lives", that is our player can input the wrong letter 8 times.
 
-    1. Print ```No such letter in the word``` and reduce the attempts count if the word guessed by the program doesn't contain this letter.
-    2. Print ```No improvements``` and reduce the attempts count if the guessed word contains this letter but the user tried this letter before.
-    3. The attempts count should be decreased only if there are no letters to uncover.
+   1. Print ```No such letter in the word``` and reduce the attempts count if the word guessed by the program doesn't contain this letter.
+   2. Print ```No improvements``` and reduce the attempts count if the guessed word contains this letter but the user tried this letter before.
+   3. The attempts count should be decreased only if there are no letters to uncover.
 
 Please, make sure that your program's output formatting precisely follows the example output formatting. Pay attention to the empty lines between tries and in the end.
 ## Examples
