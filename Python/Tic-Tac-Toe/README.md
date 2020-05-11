@@ -16,9 +16,9 @@ Tic-tac-toe is not all about analysis – a game is meant to be played! Write a 
 ### [Stage 5/5: Fight][5]
 Finally! Thanks to this app, you can always challenge a friend to play a quick game of Tic-Tac-Toe! 
 
-[1]: https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Tic_Tac_Toe/Stage_1
-[2]: https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Tic_Tac_Toe/Stage_2
-[3]: https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Tic_Tac_Toe/Stage_3
-[4]: https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Tic_Tac_Toe/Stage_4
-[5]: https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Tic_Tac_Toe/Stage_5
+[1]: https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Tic-Tac-Toe/Stage_1
+[2]: https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Tic-Tac-Toe/Stage_2
+[3]: https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Tic-Tac-Toe/Stage_3
+[4]: https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Tic-Tac-Toe/Stage_4
+[5]: https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Tic-Tac-Toe/Stage_5
 
