@@ -12,7 +12,7 @@ Is the winner already known or is the game not over yet?  Is it a draw or an imp
 In this stage, your program should:
 
     1. Fill the field from the input and print it as in the previous stage.
-    2 .Find the state in which the game is at the moment and print it. Possible states:
+    2. Find the state in which the game is at the moment and print it. Possible states:
 
    - ```"Game not finished"``` - when no side has a three in a row but the field has empty cells;
    - ```"Draw"``` - when no side has a three in a row and the field has no empty cells;
