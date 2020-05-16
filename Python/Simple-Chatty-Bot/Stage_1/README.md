@@ -1,19 +1,26 @@
 
-#  It can print.
+#   Hello! What’s your name?
 
 ## Description
-There are many animals in the zoo: all of them need care, and some of them are endangered and require preservation efforts. Animals must be fed, cleaned, surrounded by their kin and kept happy. That it a difficult task for such a big open-range zoo, so one of your employers suggested a more convenient way to accomplish that. She wants to be able to watch any animal on the screen with the help of a special program. It will sure help her take care of our furry friends more efficiently!
+Digital personal assistants help people to drive cars, plan their day, buy something online. In a sense, they are simplified versions of artificial intelligence with whom you can talk.
 
-In this project, you will create a program that helps the zookeeper check on the animals and see that they're well. Your product will be able to understand commands from the zoo staff and show the animals on a monitor.
+In this project, you will develop step by step a simple bot that will help you study programming.
 ## Objective
-To begin with, you should develop a simple printer. Your program must show the text from the output example.
+For the first stage, you will write a bot who displays a greeting, its name and the date of its creation. First impressions count!
+
+Your program should print the following lines:
+```
+Hello! My name is {bot_name}.
+I was created in {birth_year}.
+```
+Instead of ```{bot_name}``` print any name you choose and replace ```{birth_year}``` with the current year (four digits).
 ## Example
 The example below shows how your output might look.
 ##### Output:
 ```
-I do love animals!
-Start looking after animals...
-Deer looks fine.
-Bat looks happy.
-Lion looks healthy.
+Hello! My name is Aid.
+I was created in 2020.
 ```
+You can change the text if you want but print exactly two lines.
+
+Next, we will use Aid and 2020 as your bot's name and its birth year, but you can change it if you need to.
