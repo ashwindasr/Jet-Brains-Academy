@@ -1,19 +1,52 @@
 
-#  It can print.
+#  The student and the teacher
 
 ## Description
-There are many animals in the zoo: all of them need care, and some of them are endangered and require preservation efforts. Animals must be fed, cleaned, surrounded by their kin and kept happy. That it a difficult task for such a big open-range zoo, so one of your employers suggested a more convenient way to accomplish that. She wants to be able to watch any animal on the screen with the help of a special program. It will sure help her take care of our furry friends more efficiently!
-
-In this project, you will create a program that helps the zookeeper check on the animals and see that they're well. Your product will be able to understand commands from the zoo staff and show the animals on a monitor.
+At the final stage, you will improve your simple bot so that it can give you a test and check your answers. The test should be a multiple-choice quiz about programming. Your bot has to repeat the test until you answer correctly and congratulate you upon completion.
 ## Objective
-To begin with, you should develop a simple printer. Your program must show the text from the output example.
+Your bot can ask anything you want, but there are two rules for your output:
+
+   - the line with the test should end with the question mark character;
+   - an option starts with a digit followed by the dot (```1.```, ```2.```, ```3.```, ```4.```)
+
+If a user enters an incorrect answer, the bot may print a message:
+```
+Please, try again.
+```
+The program should stop on the correct answer and print ```Congratulations, have a nice day!``` at the end.
 ## Example
-The example below shows how your output might look.
-##### Output:
+The greater-than symbol followed by space (```> ```) represents the user input. Notice that it's not the part of the input.
+##### Example 1: a dialogue with the final version of your bot
 ```
-I do love animals!
-Start looking after animals...
-Deer looks fine.
-Bat looks happy.
-Lion looks healthy.
+Hello! My name is Aid.
+I was created in 2020.
+Please, remind me your name.
+> Max
+What a great name you have, Max!
+Let me guess your age.
+Enter remainders of dividing your age by 3, 5 and 7.
+> 1 
+> 2
+> 1
+Your age is 22: that's a good time to start programming!
+Now I will prove to you that I can count to any number you want.
+> 3
+0 !
+1 !
+2 !
+3 !
+Let's test your programming knowledge.
+Why do we use methods?
+1. To repeat a statement multiple times.
+2. To decompose a program into several small subroutines.
+3. To determine the execution time of a program.
+4. To interrupt the execution of a program.
+> 4
+Please, try again.
+> 2
+Completed, have a nice day!
+Congratulations, have a nice day!
 ```
+The program must end with the ```Congratulations, have a nice day!``` message.
+
+Use the provided template to simplify your work. You can change the text if you want. Please note that we use functions to make it easy to understand the program and add new code to it or edit later.
