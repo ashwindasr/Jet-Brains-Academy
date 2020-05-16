@@ -1,19 +1,29 @@
 
-#  It can print.
+#  What's my name?
 
 ## Description
-There are many animals in the zoo: all of them need care, and some of them are endangered and require preservation efforts. Animals must be fed, cleaned, surrounded by their kin and kept happy. That it a difficult task for such a big open-range zoo, so one of your employers suggested a more convenient way to accomplish that. She wants to be able to watch any animal on the screen with the help of a special program. It will sure help her take care of our furry friends more efficiently!
-
-In this project, you will create a program that helps the zookeeper check on the animals and see that they're well. Your product will be able to understand commands from the zoo staff and show the animals on a monitor.
+The greeting part is great, but chatbots are also supposed to interact with a user. It's time to implement this functionality.
 ## Objective
-To begin with, you should develop a simple printer. Your program must show the text from the output example.
+At this stage, you will introduce yourself to the bot so that it can greet you by your name.
+
+Your program should print the following lines:
+```
+Hello! My name is Aid.
+I was created in 2020.
+Please, remind me your name.
+What a great name you have, {your_name}!
+```
+You may change the name and the creation year of your bot if you want.
+
+Instead of ```{your_name}```, the bot must print your name entered from the standard input.
 ## Example
-The example below shows how your output might look.
-##### Output:
+The greater-than symbol followed by space (```> ```) represents the user input. Notice that it's not the part of the input.
+##### Example 1: a dialogue with the bot
 ```
-I do love animals!
-Start looking after animals...
-Deer looks fine.
-Bat looks happy.
-Lion looks healthy.
+Hello! My name is Aid.
+I was created in 2020.
+Please, remind me your name.
+> Max
+What a great name you have, Max!
 ```
+Use the provided template to simplify your work. You can change the text, but not the number of printed lines.
