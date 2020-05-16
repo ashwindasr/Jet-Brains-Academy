@@ -7,7 +7,6 @@ Now you will teach your bot to count. It's going to become an expert in numbers!
 At this stage, you will program the bot to count from 0 to any positive number users enter.
 ## Example
 The greater-than symbol followed by space (```> ```) represents the user input. Notice that it's not the part of the input.
-##### Output:
 ```
 Hello! My name is Aid.
 I was created in 2020.
