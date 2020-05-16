@@ -15,6 +15,12 @@ Best project for Python Basics: uses functions, loops, lists, and other variable
 #### 3. [Tic-Tac-Toe](https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Tic-Tac-Toe)
 After finishing this project, you'll get to know a lot about planning and developing a complex program from scratch, using functions, handling errors, and processing user input.
 
+#### 4. [Simple Chatty Bot](https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Simple-Chatty-Bot)
+You’ll get to know the basic syntax of Python and write a simple program using variables, conditions, loops, and functions.
+
+#### 5. [Zookeeper](https://github.com/ashwindasr/Jet-Brains-Academy/tree/master/Python/Zookeeper)
+This project is aimed at our beginners. It helps you understand some syntax basics and learn how to work with variables, data storage types such as lists, and while loops.
+
 ### Notes
 
 #### - [Formatted string literals](https://gist.github.com/ashwindasr/5d66da7588b2d01755ff80f09e35fb1c)
