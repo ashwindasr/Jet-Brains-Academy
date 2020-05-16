@@ -1,19 +1,67 @@
 
-# Welcome to the battlefield! 
+#  What's inside? 
 
 ## Description
-Nowadays, this game is known all over the world. Each country may have its own version of the name, sometimes the rules are different, but the meaning of the game remains the same. Below are the main rules that may be familiar to you since childhood.
+The third stage brings new abilities for your software: it will be able to recognize the number of a specific habitat from the input and show the animals living there.
 
-Tic-tac-toe is a game played by two players on a 3x3 field where the duel takes place. One of the players plays as 'X', and the other player is 'O'. 'X' plays first, then the 'O' side plays, and so on.
-
-The first player that writes 3 'X' or 3 'O' in a straight line (including diagonals) wins.
+Add all variables with images from the template to a variable with type list. The order of variables matters: they must be in the order they're defined in the code. The list must contain all of them with no duplicates.
 ## Objective
-Your first task in this project is to print any state of the field in the console output. Do not forget to show the moves for both players.
-## Example
-The example below shows how your output might look.
-##### Output:
+In this stage your program should:
+
+   1. Ask for a number of the habitat using the following phrase: Which habitat # do you need?.
+   2. Use the input number as an index of your habitats to print its content.
+   3. End with the following phrase:
 ```
-X O X
-O X O
-X X O
+---
+The end of the program. To check another habitat restart the watcher please.
+```
+## Example
+The greater-than symbol followed by space (```> ```) represents the user input. Notice that it's not the part of the input.
+##### Example 1
+```
+Which habitat # do you need? > 5
+ 
+Switching on camera from the habitat with rabbits...
+         ,
+        /|      __
+       / |   ,-~ /
+      Y :|  //  /
+      | jj /( .^
+      >-"~"-v"
+     /       Y
+    jo  o    |
+   ( ~T~     j
+    >._-' _./
+   /   "~"  |
+  Y     _,  |
+ /| ;-"~ _  l
+/ l/ ,-"~    \
+\//\/      .- \
+ Y        /    Y
+ l       I     !
+ ]\      _\    /"\
+(" ~----( ~   Y.  )
+It seems there will be more rabbits soon!
+---
+The end of the program. To check another habitat restart the watcher please.
+```
+##### Example 1
+```
+Which habitat # do you need? > 4
+ 
+Switching on camera from the habitat with bats...
+_________________               _________________
+ ~-.              \  |\___/|  /              .-~
+     ~-.           \ / o o \ /           .-~
+        >           \\  W  //           <
+       /             /~---~\             \
+      /_            |       |            _\
+         ~-.        |       |        .-~
+            ;        \     /        i
+           /___      /\   /\      ___\
+                ~-. /  \_/  \ .-~
+                   V         V
+It looks like this bat is fine.
+---
+The end of the program. To check another habitat restart the watcher please.
 ```
