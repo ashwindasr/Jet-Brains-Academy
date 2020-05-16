@@ -1,19 +1,54 @@
 
-# Welcome to the battlefield! 
+# Endless care <3
 
 ## Description
-Nowadays, this game is known all over the world. Each country may have its own version of the name, sometimes the rules are different, but the meaning of the game remains the same. Below are the main rules that may be familiar to you since childhood.
-
-Tic-tac-toe is a game played by two players on a 3x3 field where the duel takes place. One of the players plays as 'X', and the other player is 'O'. 'X' plays first, then the 'O' side plays, and so on.
-
-The first player that writes 3 'X' or 3 'O' in a straight line (including diagonals) wins.
+Time to bring our project to an option that will be convenient and understandable. At the final stage, your software will be ready for use by the zoo staff. Your program should understand the habitat numbers, show the animals and be able to work infinitely
 ## Objective
-Your first task in this project is to print any state of the field in the console output. Do not forget to show the moves for both players.
+Your tasks at this point:
+
+   1. Your program should repeat the behavior from the previous stage, but now in a loop.
+   2. Do not forget to add an exit opportunity for the program: inputting a word ```exit``` must terminate the program.
+   3. At the end of the execution it must print: ``See you!```.
+
 ## Example
-The example below shows how your output might look.
+The example The greater-than symbol followed by space (```> ```) represents the user input. Notice that it's not the part of the input.
+Final software must work this way: shows how your output might look.
 ##### Output:
 ```
-X O X
-O X O
-X X O
+Which habitat # do you need? > 3
+ 
+Switching on camera from the habitat with a lovely goose...
+    
+                                    _
+                                ,-"" "".
+                              ,'  ____  `.
+                            ,'  ,'    `.  `._
+   (`.         _..--.._   ,'  ,'        \    \
+  (`-.\    .-""        ""'   /          (  d _b
+ (`._  `-"" ,._             (            `-(   \
+ <_  `     (  <`<            \              `-._\
+  <`-       (__< <           :
+   (__        (_<_<          ;
+    `------------------------------------------
+This bird stares intently at you... (Maybe it's time to change the channel?)
+> Which habitat # do you need? > 1
+ 
+Switching on camera from the habitat with lions...
+                                               ,w.
+                                             ,YWMMw  ,M  ,
+                        _.---.._   __..---._.'MMMMMw,wMWmW,
+                   _.-""        '''           YP"WMMMMMMMMMb,
+                .-' __.'                   .'     MMMMW^WMMMM;
+    _,        .'.-'"; `,       /`     .--""      :MMM[==MWMW^;
+ ,mM^"     ,-'.'   /   ;      ;      /   ,       MMMMb_wMW"  @\
+,MM:.    .'.-'   .'     ;     `\    ;     `,     MMMMMMMW `"=./`-,
+WMMm__,-'.'     /      _.\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}
+"^MP__.-'    ,-' _.--""   `-,   ;       \  ; ;MMMMMMMMMMW^``; __|
+           /   .'            ; ;         )  )`{  \ `"^W^`,   \  :
+          /  .'             /  (       .'  /     Ww._     `.  `"
+         /  Y,              `,  `-,=,_{   ;      MMMP`""-,  `-._.-,
+        (--, )                `,_ / `) \/"")      ^"      `-, -;"\:
+The lion is croaking!
+Which habitat # do you need? > exit
+See you!
 ```
