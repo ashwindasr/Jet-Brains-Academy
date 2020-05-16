@@ -1,19 +1,35 @@
 
-#  It can print.
+# Let’s count! 
 
 ## Description
-There are many animals in the zoo: all of them need care, and some of them are endangered and require preservation efforts. Animals must be fed, cleaned, surrounded by their kin and kept happy. That it a difficult task for such a big open-range zoo, so one of your employers suggested a more convenient way to accomplish that. She wants to be able to watch any animal on the screen with the help of a special program. It will sure help her take care of our furry friends more efficiently!
-
-In this project, you will create a program that helps the zookeeper check on the animals and see that they're well. Your product will be able to understand commands from the zoo staff and show the animals on a monitor.
+Now you will teach your bot to count. It's going to become an expert in numbers!
 ## Objective
-To begin with, you should develop a simple printer. Your program must show the text from the output example.
+At this stage, you will program the bot to count from 0 to any positive number users enter.
 ## Example
-The example below shows how your output might look.
+The greater-than symbol followed by space (```> ```) represents the user input. Notice that it's not the part of the input.
 ##### Output:
 ```
-I do love animals!
-Start looking after animals...
-Deer looks fine.
-Bat looks happy.
-Lion looks healthy.
+Hello! My name is Aid.
+I was created in 2020.
+Please, remind me your name.
+> Max
+What a great name you have, Max!
+Let me guess your age.
+Say me remainders of dividing your age by 3, 5 and 7.
+> 1
+> 2
+> 1
+Your age is 22; that's a good time to start programming!
+Now I will prove to you that I can count to any number you want.
+> 5
+0 !
+1 !
+2 !
+3 !
+4 !
+5 !
+Completed, have a nice day!.
 ```
+Note: each number starts with a new line, and after a number, the bot should print the exclamation mark.
+
+Use the provided template to simplify your work. You can change the text if you want, but be especially careful when counting numbers.
