@@ -1,19 +1,19 @@
 
-# Welcome to the battlefield! 
+#  It can print.
 
 ## Description
-Nowadays, this game is known all over the world. Each country may have its own version of the name, sometimes the rules are different, but the meaning of the game remains the same. Below are the main rules that may be familiar to you since childhood.
+There are many animals in the zoo: all of them need care, and some of them are endangered and require preservation efforts. Animals must be fed, cleaned, surrounded by their kin and kept happy. That it a difficult task for such a big open-range zoo, so one of your employers suggested a more convenient way to accomplish that. She wants to be able to watch any animal on the screen with the help of a special program. It will sure help her take care of our furry friends more efficiently!
 
-Tic-tac-toe is a game played by two players on a 3x3 field where the duel takes place. One of the players plays as 'X', and the other player is 'O'. 'X' plays first, then the 'O' side plays, and so on.
-
-The first player that writes 3 'X' or 3 'O' in a straight line (including diagonals) wins.
+In this project, you will create a program that helps the zookeeper check on the animals and see that they're well. Your product will be able to understand commands from the zoo staff and show the animals on a monitor.
 ## Objective
-Your first task in this project is to print any state of the field in the console output. Do not forget to show the moves for both players.
+To begin with, you should develop a simple printer. Your program must show the text from the output example.
 ## Example
 The example below shows how your output might look.
 ##### Output:
 ```
-X O X
-O X O
-X X O
+I do love animals!
+Start looking after animals...
+Deer looks fine.
+Bat looks happy.
+Lion looks healthy.
 ```
